@@ -1,0 +1,17 @@
+{
+    "MaintenanceMode": "false",
+	"version": "3.3.0.0",
+    "versiondate": "01/24/2021",
+    "uri": "https://drive.google.com/uc?export=download&id=1S2Waq0EHp0QM0dvMf2OeU1Xau1CppD_C",
+    "size": 2043569,
+    "MinimumRequiredVersion": "0.0.0.0",
+    "Versions": [
+        {
+			"Version": "6.8.0.0",
+			"VersionDate": "05/05/2022",
+			"FileSize": 11239530,
+			"DownloadUri": "https://drive.google.com/uc?export=download&id=1hNaAe05fxAKtiIBEP0kG1N9GY0KtMDov",
+			"MinimumRequiredVersion": "3.3.0.0"
+		}    
+    ]
+}
