@@ -7,9 +7,9 @@
     "MinimumRequiredVersion": "0.0.0.0",
     "Versions": [
         {
-			"Version": "6.8.0.0",
-			"VersionDate": "05/05/2022",
-			"FileSize": 11239530,
+			"Version": "6.8.2.0",
+			"VersionDate": "05/06/2022",
+			"FileSize": 19239530,
 			"DownloadUri": "https://drive.google.com/uc?export=download&id=1hNaAe05fxAKtiIBEP0kG1N9GY0KtMDov",
 			"MinimumRequiredVersion": "3.3.0.0"
 		}    
