@@ -1,16 +1,18 @@
 {
-    "MaintenanceMode": "false",
-	"version": "3.3.0.0",
-    "versiondate": "01/24/2021",
-    "uri": "https://drive.google.com/uc?export=download&id=1S2Waq0EHp0QM0dvMf2OeU1Xau1CppD_C",
-    "size": 2043569,
-    "MinimumRequiredVersion": "0.0.0.0",
+    "MaintenanceMode": "true",
     "Versions": [
+		{
+			"Version": "3.3.0.0",
+			"Versiondate": "01/24/2021",
+			"FileSize": 2043569,
+			"DownloadUri": "https://drive.google.com/uc?export=download&id=1S2Waq0EHp0QM0dvMf2OeU1Xau1CppD_C",
+			"MinimumRequiredVersion": "0.0.0.0"
+		},
         {
-			"Version": "6.8.2.0",
-			"VersionDate": "05/06/2022",
-			"FileSize": 19239530,
-			"DownloadUri": "https://drive.google.com/uc?export=download&id=1hNaAe05fxAKtiIBEP0kG1N9GY0KtMDov",
+			"Version": "6.9.1.0",
+			"VersionDate": "05/21/2022",
+			"FileSize": 11237374,
+			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/kbsetup.zip",
 			"MinimumRequiredVersion": "3.3.0.0"
 		}    
     ]
