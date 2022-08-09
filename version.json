@@ -1,5 +1,5 @@
 {
-    "MaintenanceMode": "false",
+    "MaintenanceMode": "true",
     "Versions": [
 		{
 			"Version": "3.3.0.0",
