@@ -9,8 +9,8 @@
 			"MinimumRequiredVersion": "0.0.0.0"
 		},
         	{
-			"Version": "9.0.1.0",
-			"VersionDate": "08/15/2022",
+			"Version": "9.0.1.5",
+			"VersionDate": "08/23/2022",
 			"FileSize": 10864022,
 			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/kbsetup.zip",
 			"MinimumRequiredVersion": "3.3.0.0"
