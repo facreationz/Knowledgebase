@@ -9,8 +9,8 @@
 			"MinimumRequiredVersion": "0.0.0.0"
 		},
         	{
-			"Version": "19.3.0.0",
-			"VersionDate": "07/28/2024",
+			"Version": "19.3.1.0",
+			"VersionDate": "08/09/2024",
 			"FileSize": 11273044,
 			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/kbsetup.zip",
 			"MinimumRequiredVersion": "3.3.0.0"
@@ -20,7 +20,7 @@
 			"VersionDate": "07/31/2024",
 			"FileSize": 11273044,
 			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/kbsetup.zip",
-			"MinimumRequiredVersion": "19.3.0.0",
+			"MinimumRequiredVersion": "19.3.1.0",
 			"TargetAudience": "true"
 		}
     ]
