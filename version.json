@@ -17,9 +17,9 @@
 		},
 		{
 			"Version": "20.0.0.0",
-			"VersionDate": "07/31/2024",
-			"FileSize": 11273044,
-			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/kbsetup.zip",
+			"VersionDate": "08/28/2024",
+			"FileSize": 14250278,
+			"DownloadUri": "https://github.com/facreationz/Knowledgebase/raw/main/SetupProAudit.zip",
 			"MinimumRequiredVersion": "19.3.1.0",
 			"TargetAudience": "true"
 		}
